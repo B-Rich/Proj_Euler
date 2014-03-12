@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1394506516 source:c:\users\rucheng\desktop\new folder (2)\euler_16\main.cpp
+	<iostream>
+	<cmath>
+	<sstream>
+	<vector>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1394511313 source:c:\users\rucheng\desktop\new folder (2)\series_largest_product\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cstdlib>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1394513161 source:c:\users\rucheng\desktop\new folder (2)\special_pythagorean\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+
